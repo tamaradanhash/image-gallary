@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:tamaradanhash/image-gallary.git",
   "author": "Tamara Danhash <tamaradanhash1989@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
 }
